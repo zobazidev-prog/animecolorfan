@@ -1,0 +1,1392 @@
+{
+    "easy": [],
+    "hard": [],
+    "number": [
+        {
+            "bgImageName": "Bleach_Color_147",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a147.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a148.png",
+            "category": "BLEACH"
+        },
+        {
+            "bgImageName": "Bleach_Color_241",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a241.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a242.png",
+            "category": "BLEACH"
+        },
+        {
+            "bgImageName": "Bleach_Color_257",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a257.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a258.png",
+            "category": "BLEACH"
+        },
+        {
+            "bgImageName": "Bleach_Color_307",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a307.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a308.png",
+            "category": "BLEACH"
+        },
+        {
+            "bgImageName": "Bleach_Color_325",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a325.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a326.png",
+            "category": "BLEACH"
+        },
+        {
+            "bgImageName": "Bleach_Color_357",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a357.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a358.png",
+            "category": "BLEACH"
+        },
+        {
+            "bgImageName": "Bleach_Color_397",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a397.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a398.png",
+            "category": "BLEACH"
+        },
+        {
+            "bgImageName": "Bleach_Color_409",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a409.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a410.png",
+            "category": "BLEACH"
+        },
+        {
+            "bgImageName": "Bleach_Color_413",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a413.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a414.png",
+            "category": "BLEACH"
+        },
+        {
+            "bgImageName": "Cartoon_Color_151",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a151.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a152.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_175",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a175.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a176.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_177",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a177.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a178.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_197",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a197.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a198.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_221",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a221.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a222.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_249",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a249.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a250.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_263",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a263.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a264.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_273",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a273.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a274.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_275",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a275.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a276.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_281",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a281.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a282.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_289",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a289.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a290.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_295",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a295.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a296.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_297",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a297.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a298.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_309",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a309.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a310.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_311",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a311.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a312.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_313",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a313.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a314.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_321",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a321.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a322.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_341",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a341.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a342.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_343",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a343.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a344.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_351",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a351.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a352.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_415",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a415.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a416.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_427",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a427.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a428.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_429",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a429.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a430.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Cartoon_Color_435",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a435.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a436.png",
+            "category": "CARTOON"
+        },
+        {
+            "bgImageName": "Demon_Slayer_Color_5",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a6.png",
+            "category": "DEMON SLAYER"
+        },
+        {
+            "bgImageName": "Demon_Slayer_Color_25",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a25.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a26.png",
+            "category": "DEMON SLAYER"
+        },
+        {
+            "bgImageName": "Demon_Slayer_Color_115",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a115.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a116.png",
+            "category": "DEMON SLAYER"
+        },
+        {
+            "bgImageName": "Demon_Slayer_Color_121",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a121.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a122.png",
+            "category": "DEMON SLAYER"
+        },
+        {
+            "bgImageName": "Demon_Slayer_Color_135",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a135.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a136.png",
+            "category": "DEMON SLAYER"
+        },
+        {
+            "bgImageName": "Demon_Slayer_Color_165",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a165.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a166.png",
+            "category": "DEMON SLAYER"
+        },
+        {
+            "bgImageName": "Demon_Slayer_Color_187",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a187.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a188.png",
+            "category": "DEMON SLAYER"
+        },
+        {
+            "bgImageName": "Demon_Slayer_Color_365",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a365.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a366.png",
+            "category": "DEMON SLAYER"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_7",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a8.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_21",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a22.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_33",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a33.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a34.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_41",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a41.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a42.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_43",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a43.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a44.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_49",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a49.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a50.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_55",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a55.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a56.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_57",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a57.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a58.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_61",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a61.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a62.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_63",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a63.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a64.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_65",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a65.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a66.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_67",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a67.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a68.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_69",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a69.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a70.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_71",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a71.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a72.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_73",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a73.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a74.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_75",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a75.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a76.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_77",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a77.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a78.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_79",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a79.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a80.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_81",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a81.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a82.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_83",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a83.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a84.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_85",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a85.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a86.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_87",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a87.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a88.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_89",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a89.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a90.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_91",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a91.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a92.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_93",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a93.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a94.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_95",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a95.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a96.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_97",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a97.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a98.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_99",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a99.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a100.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_101",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a101.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a102.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_103",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a103.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a104.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_105",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a105.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a106.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_107",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a107.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a108.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_109",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a109.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a110.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_123",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a123.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a124.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_127",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a127.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a128.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_129",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a129.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a130.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_133",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a133.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a134.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_137",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a137.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a138.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_145",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a145.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a146.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_155",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a155.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a156.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_169",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a169.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a170.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_171",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a171.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a172.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_173",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a173.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a174.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_185",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a185.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a186.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_211",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a211.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a212.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_229",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a229.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a230.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_233",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a233.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a234.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_243",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a243.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a244.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_279",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a279.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a280.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_283",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a283.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a284.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_301",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a301.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a302.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_317",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a317.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a318.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_355",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a355.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a356.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_375",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a375.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a376.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_411",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a411.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a412.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_419",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a419.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a420.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_433",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a433.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a434.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_437",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a437.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a438.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_445",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a445.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a446.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_449",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a449.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a450.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_451",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a451.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a452.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Dragon_Ball_Color_455",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a455.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a456.png",
+            "category": "DRAGON BALL"
+        },
+        {
+            "bgImageName": "Girls_Color_9",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a10.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_19",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a20.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_31",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a31.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a32.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_167",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a167.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a168.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_181",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a181.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a182.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_183",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a183.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a184.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_191",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a191.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a192.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_199",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a199.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a200.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_201",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a201.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a202.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_213",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a213.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a214.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_235",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a235.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a236.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_237",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a237.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a238.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_251",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a251.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a252.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_265",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a265.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a266.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_277",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a277.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a278.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_287",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a287.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a288.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_293",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a293.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a294.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_303",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a303.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a304.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_323",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a323.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a324.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_349",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a349.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a350.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_361",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a361.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a362.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_367",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a367.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a368.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_371",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a371.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a372.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_373",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a373.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a374.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_457",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a457.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a458.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_459",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a459.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a460.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Girls_Color_461",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a461.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a462.png",
+            "category": "GIRLS"
+        },
+        {
+            "bgImageName": "Hunter_Color_207",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a207.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a208.png",
+            "category": "HUNTER"
+        },
+        {
+            "bgImageName": "Hunter_Color_209",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a209.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a210.png",
+            "category": "HUNTER"
+        },
+        {
+            "bgImageName": "Hunter_Color_215",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a215.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a216.png",
+            "category": "HUNTER"
+        },
+        {
+            "bgImageName": "Hunter_Color_327",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a327.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a328.png",
+            "category": "HUNTER"
+        },
+        {
+            "bgImageName": "Hunter_Color_369",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a369.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a370.png",
+            "category": "HUNTER"
+        },
+        {
+            "bgImageName": "Hunter_Color_395",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a395.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a396.png",
+            "category": "HUNTER"
+        },
+        {
+            "bgImageName": "Hunter_Color_399",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a399.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a400.png",
+            "category": "HUNTER"
+        },
+        {
+            "bgImageName": "Jujutsu_Color_15",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a16.png",
+            "category": "JUJUTSU"
+        },
+        {
+            "bgImageName": "Jujutsu_Color_143",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a143.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a144.png",
+            "category": "JUJUTSU"
+        },
+        {
+            "bgImageName": "Jujutsu_Color_305",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a305.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a306.png",
+            "category": "JUJUTSU"
+        },
+        {
+            "bgImageName": "Naruto_Color_11",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a12.png",
+            "category": "NARUTO"
+        },
+        {
+            "bgImageName": "Naruto_Color_17",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a18.png",
+            "category": "NARUTO"
+        },
+        {
+            "bgImageName": "Naruto_Color_27",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a27.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a28.png",
+            "category": "NARUTO"
+        },
+        {
+            "bgImageName": "Naruto_Color_113",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a113.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a114.png",
+            "category": "NARUTO"
+        },
+        {
+            "bgImageName": "Naruto_Color_117",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a117.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a118.png",
+            "category": "NARUTO"
+        },
+        {
+            "bgImageName": "Naruto_Color_335",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a335.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a336.png",
+            "category": "NARUTO"
+        },
+        {
+            "bgImageName": "Others_Color_23",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a24.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_35",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a35.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a36.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_47",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a47.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a48.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_53",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a53.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a54.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_59",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a59.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a60.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_111",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a111.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a112.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_119",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a119.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a120.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_141",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a141.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a142.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_153",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a153.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a154.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_157",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a157.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a158.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_159",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a159.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a160.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_161",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a161.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a162.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_179",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a179.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a180.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_189",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a189.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a190.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_193",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a193.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a194.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_203",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a203.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a204.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_205",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a205.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a206.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_219",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a219.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a220.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_223",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a223.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a224.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_225",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a225.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a226.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_227",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a227.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a228.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_245",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a245.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a246.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_247",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a247.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a248.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_253",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a253.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a254.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_259",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a259.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a260.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_261",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a261.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a262.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_267",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a267.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a268.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_271",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a271.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a272.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_285",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a285.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a286.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_291",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a291.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a292.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_299",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a299.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a300.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_319",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a319.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a320.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_329",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a329.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a330.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_331",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a331.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a332.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_333",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a333.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a334.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_337",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a337.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a338.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_339",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a339.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a340.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_345",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a345.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a346.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_347",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a347.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a348.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_363",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a363.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a364.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_379",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a379.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a380.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_381",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a381.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a382.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_383",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a383.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a384.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_385",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a385.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a386.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_387",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a387.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a388.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_389",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a389.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a390.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_401",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a401.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a402.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_403",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a403.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a404.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_407",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a407.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a408.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_417",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a417.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a418.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_423",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a423.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a424.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_439",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a439.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a440.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_441",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a441.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a442.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_443",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a443.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a444.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_447",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a447.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a448.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Others_Color_453",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a453.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a454.png",
+            "category": "OTHERS"
+        },
+        {
+            "bgImageName": "Pokemon_Color_125",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a125.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a126.png",
+            "category": "POKEMON"
+        },
+        {
+            "bgImageName": "Pokemon_Color_131",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a131.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a132.png",
+            "category": "POKEMON"
+        },
+        {
+            "bgImageName": "Pokemon_Color_139",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a139.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a140.png",
+            "category": "POKEMON"
+        },
+        {
+            "bgImageName": "Pokemon_Color_149",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a149.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a150.png",
+            "category": "POKEMON"
+        },
+        {
+            "bgImageName": "Pokemon_Color_163",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a163.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a164.png",
+            "category": "POKEMON"
+        },
+        {
+            "bgImageName": "Pokemon_Color_195",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a195.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a196.png",
+            "category": "POKEMON"
+        },
+        {
+            "bgImageName": "Pokemon_Color_239",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a239.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a240.png",
+            "category": "POKEMON"
+        },
+        {
+            "bgImageName": "Pokemon_Color_359",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a359.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a360.png",
+            "category": "POKEMON"
+        },
+        {
+            "bgImageName": "Pokemon_Color_393",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a393.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a394.png",
+            "category": "POKEMON"
+        },
+        {
+            "bgImageName": "Solo_Color_1",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a2.png",
+            "category": "SOLO"
+        },
+        {
+            "bgImageName": "Solo_Color_13",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a14.png",
+            "category": "SOLO"
+        },
+        {
+            "bgImageName": "Solo_Color_37",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a37.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a38.png",
+            "category": "SOLO"
+        },
+        {
+            "bgImageName": "Solo_Color_39",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a39.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a40.png",
+            "category": "SOLO"
+        },
+        {
+            "bgImageName": "Solo_Color_45",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a45.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a46.png",
+            "category": "SOLO"
+        },
+        {
+            "bgImageName": "Solo_Color_391",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a391.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a392.png",
+            "category": "SOLO"
+        },
+        {
+            "bgImageName": "Sonic_Color_3",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a4.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_29",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a29.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a30.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_51",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a51.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a52.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_217",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a217.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a218.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_231",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a231.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a232.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_255",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a255.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a256.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_269",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a269.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a270.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_315",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a315.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a316.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_353",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a353.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a354.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_377",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a377.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a378.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_405",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a405.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a406.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_421",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a421.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a422.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_425",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a425.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a426.png",
+            "category": "SONIC"
+        },
+        {
+            "bgImageName": "Sonic_Color_431",
+            "bgImagePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a431.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zobazidev-prog/animecolorfan/refs/heads/main/a432.png",
+            "category": "SONIC"
+        }
+    ]
+}
